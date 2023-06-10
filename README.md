@@ -1,14 +1,12 @@
 # Joe Ray
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/joe-ray-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/joe-ray-dev/) <a href="mailto:jray100.jr@gmail.com"><img height="20px" width="80px" style="padding-left:20px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-A passionate developer with a focus on backend software development. I thrive on turning complex problems into elegant solutions and enjoy being part of a collaborative team that values innovation and continuous learning.
+* A passionate developer with a focus on backend software development.
 
-My journey in the world of software development started with a curiosity for understanding how things work behind the scenes. I regularly lose track of time diving head first into one rabit hole after another when it comes to tech. 
+* My journey in the world of software development started with a curiosity for understanding how things work behind the scenes. I regularly lose track of time diving head first into one rabit hole after another.
 
-Outside of work, I enjoy compiling new concepts through podcasts, various reading materials, and conversation. Living in a mountainous area of the country I take any opportunity to explore the great outdoors.
-
-*If you're ever looking to connect on any fun side projects, feel free to reach out. I would be more than excited to collaborate!*
+* Outside of work, I enjoy any opportunity to explore the great outdoors.
 
 ---
 ### Tools of the Trade
