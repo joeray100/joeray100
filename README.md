@@ -1,16 +1,43 @@
-### Hi there 👋
+# Joe Ray
 
-<!--
-**joeray100/joeray100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/joe-ray-dev/)
 
-Here are some ideas to get you started:
+A passionate developer with a focus on backend software development. I thrive on turning complex problems into elegant solutions and enjoy being part of a collaborative team that values innovation and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My journey in the world of software development started with a curiosity for understanding how things work behind the scenes. I regularly lose track of time diving head first into one rabit hole after another when it comes to tech. 
+
+Outside of work, I enjoy compiling new concepts through podcasts, various reading materials, and conversation. Living in a mountainous area of the country I take any opportunity to explore the great outdoors.
+
+*If you're ever looking to connect on any fun side projects, feel free to reach out. I would be more than excited to collaborate!*
+
+---
+### Tools of the Trade
+
+
+<img align="left" alt="Ruby" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+<img align="left" alt="Jira" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
+<img align="left" alt="Python" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Git" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="HTML" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Jira" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
+<img align="left" alt="Jira" width="35px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+<br />
+
+###
+
+
+<details>
+  <summary><h3>Stats and Activity</h3></summary>
+  
+  <p>
+    <img alt="Streak Stats" src="https://streak-stats.demolab.com?user=joeray100&theme=neon-dark&mode=weekly"/>
+  </p>    
+  <p>
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=joeray100&show_icons=true&theme=chartreuse-dark" />
+  </p>    
+  <p>
+    <img alt="Language stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeray100&layout=compact&size_weight=0.5&count_weight=0.5" />
+  </p> 
+</details>
